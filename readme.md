@@ -68,7 +68,7 @@ Once installed, you can run `gemini` from your terminal to query Gemini 2.5 Flas
 Simply type your question or prompt:
 
 ```bash
-gemini Explain quantum computing in simple terms
+gemini how to delete inbetween braces nvim
 ```
 
 ### Brevity Mode
